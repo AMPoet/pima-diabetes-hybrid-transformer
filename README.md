@@ -23,7 +23,7 @@
 - [Models](#-models)
 - [Results](#-results)
 - [Dataset](#-dataset)
-- [Installation](#-installation)
+- [Installation](https://github.com/AMPoet/pima-diabetes-hybrid-transformer/blob/main/README.md#%EF%B8%8F-installation)
 - [Usage](#-usage)
 - [Repository Structure](#-repository-structure)
 - [Citation](#-citation)
