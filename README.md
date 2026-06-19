@@ -287,7 +287,7 @@ If you use this code or build upon this work, please cite:
 | Name | Role | Affiliation | Contact |
 |---|---|---|---|
 | **Amir Mohammad Rahimi** | First Author | University of Seyed Jamal E Asadabadi, Kermanshah, Iran | [Amirahimi815@gmail.com](mailto:Amirahimi815@gmail.com) |
-| **Hedieh Noorian** | Corresponding Author ⭐ | Hamedan University of Technology, Hamedan, Iran | [Hediehnoo2020@gmail.com](mailto:Hediehnoo2020@gmail.com) |
+| **[Hedieh Noorian](https://github.com/hediehnoo)** | Corresponding Author ⭐ | Hamedan University of Technology, Hamedan, Iran | [Hediehnoo2020@gmail.com](mailto:Hediehnoo2020@gmail.com) |
 
 ---
 
