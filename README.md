@@ -9,7 +9,7 @@
 
 > **A Multistage PCA–SMOTE Preprocessing Pipeline for Diabetes Prediction Using XGBoost and Hybrid Transformers**
 >
-> *Amir Mohammad Rahimi · Hedieh Noorian(@Hediehhnoo)*  
+> *Amir Mohammad Rahimi · Hedieh Noorian*  
 > *1st National Conference on Applied AI Frontiers — University of Science and Technology of Mazandaran, Feb. 9–10, 2025*
 
 > 📌 **Note:** This article has been written by using the **Pima Indians Diabetes Dataset** — a widely-used benchmark comprising 768 clinical records with eight metabolic and hereditary attributes for binary diabetes prediction.
