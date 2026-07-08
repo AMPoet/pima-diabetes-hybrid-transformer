@@ -21,7 +21,6 @@
     <img src="https://ahse.reapress.com/public/journals/1/cover_issue_16_en.jpg" alt="Annals of Healthcare Systems Engineering - Vol 3, No 2" width="200"/>
   </a>
 </p>
----
 
 ## 📋 Table of Contents
 
@@ -276,21 +275,16 @@ diabetes-pca-smote-transformer/
 If you use this code or build upon this work, please cite:
 
 ```bibtex
-@inproceedings{rahimi2025diabetes,
-  title     = {A Multistage PCA–SMOTE Preprocessing Pipeline for Diabetes Prediction
-               Using XGBoost and Hybrid Transformers},
-  author    = {Rahimi, Amir Mohammad and Noorian, Hedieh},
-  booktitle = {1st National Conference on Applied Artificial Intelligence Frontiers},
-  address   = {University of Science and Technology of Mazandaran, Iran},
-  journal   = {Annals of Healthcare Systems Engineering},
-  volume    = {3},
-  number    = {2},
-  pages     = {102--112},
-  year      = {2026},
-  month     = {February},
-  doi       = {10.22105/ahse.v3i2.62},
-  url       = {https://ahse.reapress.com/journal/article/view/62}
-
+@article{rahimi2026diabetes,
+  title   = {A Multistage PCA–SMOTE Preprocessing Pipeline for Diabetes Prediction Using XGBoost and Hybrid Transformers},
+  author  = {Rahimi, Amir Mohammad and Noorian, Hedieh},
+  journal = {Annals of Healthcare Systems Engineering},
+  volume  = {3},
+  number  = {2},
+  pages   = {102--112},
+  year    = {2026},
+  doi     = {10.22105/ahse.v3i2.62},
+  url     = {https://ahse.reapress.com/journal/article/view/62}
 }
 ```
 
