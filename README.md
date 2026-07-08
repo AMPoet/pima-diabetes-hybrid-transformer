@@ -6,6 +6,8 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-F7931E?logo=scikitlearn)](https://scikit-learn.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?logo=pytorch)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow)](https://tensorflow.org/)
+[![Journal](https://img.shields.io/badge/Published%20in-Annals%20of%20Healthcare%20Systems%20Engineering-blue)](https://ahse.reapress.com/journal/article/view/62)
+[![DOI](https://img.shields.io/badge/DOI-10.22105%2Fahse.v3i2.62-blue)](https://doi.org/10.22105/ahse.v3i2.62)
 
 > **A Multistage PCA–SMOTE Preprocessing Pipeline for Diabetes Prediction Using XGBoost and Hybrid Transformers**
 >
@@ -276,7 +278,10 @@ If you use this code or build upon this work, please cite:
   booktitle = {1st National Conference on Applied Artificial Intelligence Frontiers},
   address   = {University of Science and Technology of Mazandaran, Iran},
   year      = {2025},
-  month     = {February}
+  month     = {February},
+  doi       = {10.22105/ahse.v3i2.62},
+  url       = {https://ahse.reapress.com/journal/article/view/62}
+
 }
 ```
 
